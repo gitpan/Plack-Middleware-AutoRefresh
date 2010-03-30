@@ -1,9 +1,11 @@
 Build.PL
+Changes
 lib/Plack/Middleware/AutoRefresh.pm
 MANIFEST			This list of files
 MANIFEST.SKIP
 META.yml
 README
+samples/app.psgi
 samples/catalyst.psgi
 samples/html/index.html
 samples/static.psgi

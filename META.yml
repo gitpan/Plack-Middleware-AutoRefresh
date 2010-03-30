@@ -13,7 +13,7 @@ name: Plack-Middleware-AutoRefresh
 provides:
   Plack::Middleware::AutoRefresh:
     file: lib/Plack/Middleware/AutoRefresh.pm
-    version: 0.05
+    version: 0.08
 requires:
   AnyEvent: 0
   AnyEvent::Filesys::Notify: 0
@@ -29,4 +29,4 @@ resources:
   bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=Plack-Middleware-AutoRefresh
   license: http://dev.perl.org/licenses/
   repository: http://github.com/mvgrimes/Plack-Middleware-AutoRefresh
-version: 0.05
+version: 0.08
